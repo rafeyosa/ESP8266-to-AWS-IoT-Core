@@ -26,7 +26,7 @@ This Project using NodeMCU ESP8266 with Arduino IDE for programming the board. F
 ## How to Upload Program to ESP8266
 1. Install board ESP8266.
 > Then go to tools -> board -> board manager -> search ESP8266, install the one by ESP8266 Community, make sure to install version 2.7.4 and not the latest ones. I got the exact same issue on version 3.0.1.
-['class BearSSL::WiFiClientSecure' has no member named 'loadCertificate'](https://stackoverflow.com/questions/67962746/class-bearsslwificlientsecure-has-no-member-named-loadcertificate)
+> ['class BearSSL::WiFiClientSecure' has no member named 'loadCertificate'](https://stackoverflow.com/questions/67962746/class-bearsslwificlientsecure-has-no-member-named-loadcertificate)
 2. Download or clone this project.
 3. Install all required libraries.
 4. Change `ssid` and `password` value, with your Wifi SSID and password.
