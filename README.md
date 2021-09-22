@@ -8,6 +8,7 @@ This Project using NodeMCU ESP8266 with Arduino IDE for programming the board. F
 * [Arduino ESP8266 Filesystem Uploader](https://github.com/esp8266/arduino-esp8266fs-plugin)
 * [Arduino Client for MQTT](https://github.com/knolleary/pubsubclient)
 * [NTPClient](https://github.com/arduino-libraries/NTPClient)
+* [Arduino ESP8266FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin/releases/tag/0.5.0)
 
 ## Creating a Device on AWS IoT Core
 1. Login to your AWS Console and search service name **AWS IoT**.
